@@ -1,6 +1,7 @@
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-19525207-1']);
 _gaq.push(['_trackPageview']);
+_gaq.push(['__trackEvent']);
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
