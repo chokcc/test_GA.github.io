@@ -9,7 +9,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-async src="https://www.googletagmanager.com/gtag/js?id=G-T3V50TZQ0Z">
+async src="https://www.googletagmanager.com/gtag/js?id=G-T3V50TZQ0Z"
 
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
